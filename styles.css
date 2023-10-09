@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+main{
+	background-color:lightgray;
+	padding:20px;
+	
+}
+.Testimonials{
+	background-color:white;
+	padding:10px;
+	margin:20px;
+	border-radius:3px;
+	box-shadow:3px 3px 7px grey;
+	box-sizing:border-box;
+/* 	display:block-inline; */
+}
+.author{
+	text-align: right;
+}
