@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
-main{
+.main{
 	background-color:lightgray;
 	padding:20px;
 	
+}
+.main>h1{
+	font-family:arial;
 }
 .Testimonial{
 	background-color:white;
@@ -13,6 +16,9 @@ main{
 	box-shadow:3px 3px 7px grey;
 	box-sizing:border-box;
 /* 	display:block-inline; */
+}
+.text{
+	font-family:arial;
 }
 .author{
 	text-align: right;
